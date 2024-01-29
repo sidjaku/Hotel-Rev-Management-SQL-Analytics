@@ -79,3 +79,9 @@ This project is dedicated to leveraging SQL Analytics for Business and Data Inte
 2. Import the provided SQL scripts into your SQL database.
 3. Execute the SQL queries in your database management tool.
 4. Extract valuable insights by reviewing the query results.
+
+## Credits
+
+This project is adapted from the Code Basics Resume Project Challenge. A special thanks to Code Basics for providing the project challenges and resources for continuous learning in data analytics.
+
+[Code Basics Resume Project Challenge](https://codebasics.io/challenge/codebasics-resume-project-challenge)
